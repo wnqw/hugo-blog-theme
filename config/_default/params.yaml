@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
+  theme_day: Coffee
+  theme_night: Coffee
   font: Classic
   font_size: L
 
