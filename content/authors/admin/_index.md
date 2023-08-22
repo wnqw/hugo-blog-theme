@@ -6,7 +6,7 @@ title: 圣状月刊🗞️
 superuser: true
 
 # Role/position
-role: 小红书号： 5698748796
+role: 小红书号： 5698748796，公众号（圣状-Sinthome）
 
 # Status emoji
 status:
