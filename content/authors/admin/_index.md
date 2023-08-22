@@ -10,7 +10,7 @@ role: 小红书号： 5698748796
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🗞️
 
 
 # Short bio (displayed in user profile at end of posts)
