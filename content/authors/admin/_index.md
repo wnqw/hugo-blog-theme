@@ -6,7 +6,7 @@ title: 言物🗞️
 superuser: true
 
 # Role/position
-role: 小红书号：5698748796，公众号:圣状-Sinthome
+role: 小红书号： 5698748796，公众号: 圣状-Sinthome
 
 # Status emoji
 status:
