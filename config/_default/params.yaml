@@ -8,7 +8,7 @@
 appearance:
   theme_day: custom
   theme_night: custom
-  font: Cyberpunk
+  font: Classic
   font_size: L
 
 # SEO
@@ -19,9 +19,9 @@ appearance:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
