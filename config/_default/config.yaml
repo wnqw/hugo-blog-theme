@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 言物🗞️ # Website name
-baseURL: 'https://sinthome.netlify.app/' # Website URL
+baseURL: 'https://yanwu.netlify.app/' # Website URL
 
 ############################
 ## PAGE OPTIONS
