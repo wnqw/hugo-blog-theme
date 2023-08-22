@@ -1,8 +1,8 @@
 ---
 title: 2023-09
 ---
-## 1. 《银质的爱》
-### 作者：太阳野花的头
+### 1. 《银质的爱》
+##### 作者：太阳野花的头
 
 我的爱好：
 摩挲
@@ -43,3 +43,27 @@ title: 2023-09
 
 我是一只松鼠
 飞入你银色的宫殿
+
+---
+features:
+  comment:
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
+    disqus:
+      # Paste the shortname from your Disqus dashboard.
+      shortname: ''
+      # Show comment count in page header? (true/false)
+      show_count: true
+    commento:
+      # If you self-host Commento, enter your custom Commento URL here.
+      url: ''
+
+---
