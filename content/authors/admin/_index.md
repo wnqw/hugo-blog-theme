@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 圣状月刊（Sinthome）
+title: 圣状月刊🗞️
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: 小红书号： 5698748796
 
 # Status emoji
 status:
-  icon: 🗞️
+  icon: 
 
 
 # Short bio (displayed in user profile at end of posts)
